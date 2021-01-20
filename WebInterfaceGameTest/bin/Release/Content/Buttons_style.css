@@ -1,0 +1,77 @@
+﻿.btn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn button {
+    background-image: url("Images/button.jpg");
+    background-position: right;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #292929;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    color:white;
+    min-width:150px;
+}
+
+.btn button::before {
+    content: '';
+    display: block;
+    width: 35px;
+    height: 100%;
+    position: absolute;
+    background-color: #ffffff;
+    top: 0;
+    transform: skewX(-30deg);
+    filter: blur(15px);
+    left: -200px;
+    opacity: .7;
+    z-indexBul: 5;
+}
+
+.btn button:hover::before {
+    animation: anime 3s infinite linear;
+}
+
+.btn button:hover {
+    cursor: pointer;
+    border-color: black;
+}
+
+.btn button:active {
+     transition: 0.7s;
+     background-color: #FF9638;
+     color: #aeaeae;
+}
+
+@keyframes anime {
+    from {
+        left: -200px;
+    }
+
+    to {
+        left: calc(100% + 150px);
+    }
+}
+
+.enemy_button{
+    display:flex;
+    justify-content:space-around;    
+}
+
+.enemy_button button{
+    background-image:none;
+    background-color: #FF9638; 
+}
+
+.btn h2{
+    color:white;
+    padding:15px;
+    margin:0;
+}

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<WebInterfaceGame.Models.ViewModel>
+@{
+    ViewBag.Title = "Rules";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asteroid Belt</title>
+    <link rel="stylesheet" href="~/Content/Menu_style.css">
+    <link rel="stylesheet" href="~/Content/Game_style.css">
+    <link rel="stylesheet" href="~/Content/Rules_style.css">
+    <link href="https://fonts.googleapis.com/css?family=Allerta" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <nav>
+                <!--            <div class="logo">-->
+                <!--                <a href="#"> <img src="Images/boss.png" alt="Unknown logo image"></a>-->
+                <!--            </div>-->
+                <div class="header_info">
+                    <h1>Rules</h1>
+                </div>
+            </nav>
+        </div>
+        <div class="content">
+            <div class="side">
+                <ul class="menu">
+                    <li><a href="Briefing"><div class="img_n"><img src="~/Content/Images/briefing.png"></div><span>Briefing</span></a></li>
+                    <li class="menu__list">
+                        <a href="Lore"><div class="img_n"><img src="~/Content/Images/lore.png"></div><span>Lore</span></a>
+                        <ul class="menu__drop">
+                            @foreach (var element in Model)
+                            {
+                                <li><a href="@Url.Action("Enemy",new { Id = element.Id})">@element.Name</a></li>
+                            }
+                        </ul>
+                    </li>
+                    <li><a href="Scoreboard"><div class="img_n"><img src="~/Content/Images/Scoreboard.png"></div><span>Scoreboard</span></a></li>
+                    <li><a href="#"><div class="img_n"><img src="~/Content/Images/rules.png"></div><span>Rules</span></a></li>
+                    <li class="menu__list">
+                        <a href="#"><div class="img_n"><img src="~/Content/Images/mail.png"></div><span>Email us</span></a>
+                        <ul class="menu__drop">
+                            <li><a target="_blank" href="mailto:vladislaw.vlad2@gmail.com?subject=Feedback about game"><div class="img_n_social"><img src="~/Content/Images/gmail.png" alt="gmail"></div></a></li>
+                            <li><a target="_blank" href="tg://resolve?domain=Vinchickk"><div class="img_n_social"><img src="~/Content/Images/telegram.png" alt="telegram"></div></a></li>
+                            <li><a target="_blank" href="https://instagram.com/forgotten_for_everyone/"><div class="img_n_social"><img src="~/Content/Images/instagram.png" alt="instagram"></div></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="content_info">
+                <div class="content_container">
+                    <div class="content_rules">
+                        <div class="main_rules">
+                            <h1>Main rules</h1>
+                            <p>
+                                In this game you are the commander of a warship.
+                                Your task is to survive as long as possible.
+                                At the top of gamescreen you can see current HP, your score
+                                and number of your shots. If you use a game controller - press
+                                the red button on it to shoot (if you hold it - nothing will happen).
+                            </p>
+                            <p>
+                                In the game you have only 2 options:
+                            </p>
+                            <ol class="game_option">
+                                <li>Moving in any direction</li>
+                                <li>Shooting</li>
+                            </ol>
+                            <p>
+                                Any of your actions will be displayed on the game controller (move, shot, hit, etc.)
+                                There are also bonuses in the game that will improve your weapon or restore your HP.
+                                But be careful, if you collision an asteroid, the damage will reduce not only HP,
+                                but also weapon.
+                            </p>
+                            <p>
+                                If you score 5,000 points, you have to fight the boss. We don't have any information
+                                about him, but try not to get close to him.
+                            </p>
+                        </div>
+                        <div class="gameplay">
+                            <h1>Gameplay</h1>
+                            <img src="~/Content/Images/GamePlay.png" alt="gameplay image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p> All right reserved by&nbsp;&copy;ffe 2021</p>
+        </div>
+    </div>
+</body>
+</html>

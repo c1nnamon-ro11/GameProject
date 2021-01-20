@@ -1,0 +1,7 @@
+1) AsteroidBeltTest1 3355
+2) UnknownPlayer 1475
+3) SpaceDefender 1340
+4) Star_Marshall 1310
+5) Your_nickname 1190
+6) Test2 115
+7) Test1 80

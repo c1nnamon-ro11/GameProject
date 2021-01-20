@@ -1,0 +1,211 @@
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\asteroid.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bonus.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bullet2.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\charge.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\fireball2.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bullet1.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\boss.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\planet.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\rocket.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\ship.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\star.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Scoreboard\Scoreboard.txt
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Bonus.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\BossStart.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\EricSkiffUnderclocked.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\GameOver.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Hit.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\MusicBack.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\PowerShot.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Shot.mp3
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ship.ico
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Program.cs
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.dll.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.pdb
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.exe
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.pdb
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.exe.config
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csproj.CopyComplete
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.dll
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.pdb
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Asteroids charge.png
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Game_style.css
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Menu_style.css
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Rules_style.css
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Scoreboard_style.css
+C:\Users\USER\Desktop\Projects\WebInterfaceGame\WebInterfaceGame\bin\Content\Buttons_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.pdb
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Buttons_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Game_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Menu_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Asteroid.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bonus.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Boss.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bullet1.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\bullet2.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\fireball2.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\planet.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Rocket.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Ship.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\Star.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Rules_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Scoreboard_style.css
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.dll.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\WebInterfaceGame.pdb
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\obj\Release\WebInterfaceGame.csproj.CopyComplete
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\pictures\charge.png
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Scoreboard\Scoreboard.txt
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Bonus.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\BossStart.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\EricSkiffUnderclocked.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\GameOver.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Hit.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\MusicBack.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\PowerShot.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Content\Sounds\Shot.mp3
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\ship.ico
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.exe
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.pdb
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\FirstGame.exe.config
+C:\Users\USER\Desktop\Projects\Asteroid Belt\WebInterfaceGame\WebInterfaceGame\bin\Game.cs

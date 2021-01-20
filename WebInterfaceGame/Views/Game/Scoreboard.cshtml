@@ -1,0 +1,81 @@
+﻿
+
+@model IEnumerable<WebInterfaceGame.Models.ViewModel>
+@{
+    ViewBag.Title = "Scoreboard";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asteroid Belt</title>
+    <link rel="stylesheet" href="~/Content/Menu_style.css">
+    <link rel="stylesheet" href="~/Content/Game_style.css">
+    <link rel="stylesheet" href="~/Content/Scoreboard_style.css">
+    <link href="https://fonts.googleapis.com/css?family=Allerta" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <nav>
+                <!--            <div class="logo">-->
+                <!--                <a href="#"> <img src="Images/boss.png" alt="Unknown logo image"></a>-->
+                <!--            </div>-->
+                <div class="header_info">
+                    <h1>Scoreboard</h1>
+                </div>
+            </nav>
+        </div>
+        <div class="content">
+            <div class="side">
+                <ul class="menu">
+                    <li><a href="Briefing"><div class="img_n"><img src="~/Content/Images/briefing.png"></div><span>Briefing</span></a></li>
+                    <li class="menu__list">
+                        <a href="Lore"><div class="img_n"><img src="~/Content/Images/lore.png"></div><span>Lore</span></a>
+                        <ul class="menu__drop">
+                            @foreach (var element in Model)
+                            {
+                                <li><a href="@Url.Action("Enemy",new { Id = element.Id})">@element.Name</a></li>
+                            }
+                        </ul>
+                    </li>
+                    <li><a href="#"><div class="img_n"><img src="~/Content/Images/Scoreboard.png"></div><span>Scoreboard</span></a></li>
+                    <li><a href="Rules"><div class="img_n"><img src="~/Content/Images/rules.png"></div><span>Rules</span></a></li>
+                    <li class="menu__list">
+                        <a href="#"><div class="img_n"><img src="~/Content/Images/mail.png"></div><span>Email us</span></a>
+                        <ul class="menu__drop">
+                            <li><a target="_blank" href="mailto:vladislaw.vlad2@gmail.com?subject=Feedback about game"><div class="img_n_social"><img src="~/Content/Images/gmail.png" alt="gmail"></div></a></li>
+                            <li><a target="_blank" href="tg://resolve?domain=Vinchickk"><div class="img_n_social"><img src="~/Content/Images/telegram.png" alt="telegram"></div></a></li>
+                            <li><a target="_blank" href="https://instagram.com/forgotten_for_everyone/"><div class="img_n_social"><img src="~/Content/Images/instagram.png" alt="instagram"></div></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="content_info">
+                <div class="content_container">
+                    <div class="scoreboard">
+                        <!--                   <h1>Scoreboard</h1>-->
+                        <p>
+                            Here you can see a list of the best commanders of our fleet.
+                            Try and one day you will be able to lead this list.
+                        </p>
+                        <h2>Scoreboard</h2>
+                        <div class="leaderboard">
+                            @foreach (var element in WebInterfaceGame.Models.ViewModel.Scoreboard)
+                            {
+                                <p>@element</p>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p> All right reserved by&nbsp;&copy;ffe 2021</p>
+        </div>
+    </div>
+</body>
+</html>

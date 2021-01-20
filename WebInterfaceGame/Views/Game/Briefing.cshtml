@@ -1,0 +1,87 @@
+﻿@model IEnumerable<WebInterfaceGame.Models.ViewModel>
+@{
+    ViewBag.Title = "Briefing";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asteroid Belt</title>
+    <link rel="stylesheet" href="~/Content/Menu_style.css">
+    <link rel="stylesheet" href="~/Content/Game_style.css">
+    <link rel="stylesheet" href="~/Content/Buttons_style.css">
+    <link rel="stylesheet" href="~/Content/Enemy_style.css">
+    <link href="https://fonts.googleapis.com/css?family=Allerta" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <nav>
+                <!--            <div class="logo">-->
+                <!--                <a href="#"> <img src="~/Content/Images/boss.png" alt="Unknown logo image"></a>-->
+                <!--            </div>-->
+                <div class="header_info">
+                    <h1>Briefing</h1>
+                </div>
+            </nav>
+        </div>
+        <div class="content">
+            <div class="side">
+                <ul class="menu">
+                    <li><a href="#"><div class="img_n"><img src="~/Content/Images/briefing.png"></div><span>Briefing</span></a></li>
+                    <li class="menu__list">
+                        <a href="@Url.Action("Lore")"><div class="img_n"><img src="~/Content/Images/lore.png"></div><span>Lore</span></a>
+                        <ul class="menu__drop">
+                            @foreach(var element in Model)
+                            {
+                                <li><a href="@Url.Action("Enemy",new { Id = element.Id})">@element.Name</a></li>
+                            }
+                        </ul>
+                    </li>
+                    <li><a href="@Url.Action("Scoreboard")"><div class="img_n"><img src="~/Content/Images/Scoreboard.png"></div><span>Scoreboard</span></a></li>
+                    <li><a href="@Url.Action("Rules")"><div class="img_n"><img src="~/Content/Images/rules.png"></div><span>Rules</span></a></li>
+                    <li class="menu__list">
+                        <a href="#"><div class="img_n"><img src="~/Content/Images/mail.png"></div><span>Email us</span></a>
+                        <ul class="menu__drop">
+                            <li><a target="_blank" target="_top" href="mailto:vladislaw.vlad2@gmail.com?subject=Feedback about game"><div class="img_n_social"><img src="~/Content/Images/gmail.png" alt="gmail"></div></a></li>
+                            <li><a target="_blank" href="tg://resolve?domain=Vinchickk"><div class="img_n_social"><img src="~/Content/Images/telegram.png" alt="telegram"></div></a></li>
+                            <li><a target="_blank" href="https://instagram.com/forgotten_for_everyone/"><div class="img_n_social"><img src="~/Content/Images/instagram.png" alt="instagram"></div></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="content_info">
+                <div class="content_container">
+                    <div class="content_logo">
+                        <div class="briefing">
+                            <div class="brief_cont"><img src="~/Content/Images/briefing1.png" alt="briefing logo"></div>
+                        </div>
+                        <h1>Commander!</h1>
+                        <p>
+                            A mystical force has launched a surprise attack. The whole world has been attacked.
+                            Many cities have fallen into its hands and our troops are retreating.
+                            Commander, we need your help. You are our last hope!
+                            You need to update your technology in order to face the powerful enemy troops.
+                        </p>
+                        <p>
+                            Your mission is to find and destroy the main alien ship. The latest combat ship is at your disposal.
+                            We will try wipe out the enemy, rescue the ally and help you as much as we can after break through encirclement.
+                        </p>
+                        <p>Good luck!</p>
+                        <div class="btn">
+                            <!--<a href="@Url.Action("Play")"><button><h2>Start launch</h2></button></a>-->
+                            <form action="@Url.Action("Play")"><button><h2>Start launch</h2></button></form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p> All right reserved by&nbsp;&copy;ffe 2021</p>
+        </div>
+    </div>
+</body>
+</html>
